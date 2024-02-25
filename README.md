@@ -42,29 +42,42 @@ After installation, run `npm install` and then run `gulp dev` which will open up
 - `gulp js` minifies the themes JS file
 - `gulp vendor` copies dependencies from node_modules to the vendor directory
 
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-sb-admin/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin/).
-
-## Custom Builds
-
-You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
 
 ## About
 
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
+FIRST Download
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+1.XAMPP
 
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+3"OElectronics_Parts_Sales_and_Inventory_System"
 
-## Copyright and License
+4. Download the zip file/ download winrar
 
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-sb-admin/blob/gh-pages/LICENSE) license.
+5. Extract the file and copy "Electronics_Parts_Sales_and_Inventory_System" folder
+
+6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+
+7. Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+8. Create a database with name prince
+
+6. Import prince.sql file(given inside the zip package in SQL file folder)
+
+7.Run the script http://localhost/Electronics_Parts_Sales_and_Inventory_System
+
+Computer Parts Sales and Inventory System
+
+**LOGIN DETAILS** 
+
+admin
+user: admin
+pass: admin
+
+user
+user: test
+pass: test
+
