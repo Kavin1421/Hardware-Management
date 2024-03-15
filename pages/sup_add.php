@@ -45,13 +45,15 @@ window.onload = function() {
   // -------------------
 
   // will return all provinces 
+  console.log("Provinces")
+  
   console.log($.getProvinces());
   
   // will return all cities 
   console.log($.getAllCities());
   
   // will return all cities under specific province (e.g Batangas)
-  console.log($.getCities("Batangas")); 
+  console.log($.getCities("Chennai")); 
   
 }
 </script>

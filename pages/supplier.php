@@ -31,11 +31,11 @@ include'../includes/sidebar.php';
                <thead>
                    <tr>
                        <th>Company Name</th>
-                       <th>Province</th>
+                       <th>Province</th>=-
                        <th>City</th>
                        <th>Phone Number</th>
                        <th>Option</th>
-                   </tr>
+                   </tr>=
                </thead>
           <tbody>
 <?php                  
