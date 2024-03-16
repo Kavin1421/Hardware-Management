@@ -4,7 +4,7 @@
 * @ version 2.0.0
 * @ author Kavinkumar K
 */
-var districts = {
+var cities = {
 	'Chennai': [
 		'Adyar', 'Ambattur', 'Aminjikarai', 'Anna Nagar', 'Ashok Nagar', 'Chetpet',
 		'Choolai', 'Egmore', 'Guindy', 'K.K. Nagar', 'Kilpauk', 'Kodambakkam',
